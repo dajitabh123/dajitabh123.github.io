@@ -234,10 +234,10 @@
     width: 45%;
   }
   .about .about-content .left img {
-    height: 400px;
-    width: 400px;
+    height:70%;
+    width: 700%;
     object-fit: cover;
-    border-radius: 200px 200px;
+    border-radius: 50%;
   }
   .about .about-content .right {
     width: 55%;
