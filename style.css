@@ -234,10 +234,10 @@
     width: 45%;
   }
   .about .about-content .left img {
-    height:70%;
-    width: 700%;
+    height: 70%;
+    width: 70%;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius:50% ;
   }
   .about .about-content .right {
     width: 55%;
@@ -767,6 +767,10 @@
       width: 35px;
       font-size: 23px;
       line-height: 38px;
+    }
+    #calen{
+      width: 50%;
+      height: auto;
     }
   }
   
