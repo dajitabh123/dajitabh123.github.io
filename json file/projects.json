@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Online Nursery Plant Portal(Backend)",
+        "desc": "REST API for an Online Plant Nursery Application where you can buy Seeds, Plants and Planters..",
+        "src": "https://skillicons.dev/icons?i=java,mysql,hibernate,spring",
+        "alter":"Java,mysql,hibernate,springboot",
+        "image": "Online_Nursery",
+        "category": "Backend",
+        "links": {
+            
+            "code": "https://github.com/dajitabh123/unequal-drain-7932",
+            "view": "https://github.com/dajitabh123/unequal-drain-7932"
+        }
+    },
+    {
+        "name": "Crime_Management System (Backend)",
+        "desc": "Crime Information Management System is an application which interact with crime and criminal database and take the information from the database and give it to the user. It is consoled based application which give functionalities to user like register crime, register criminal, show status of crime case and get report on no of solved and not solved",
+        "src": "https://skillicons.dev/icons?i=java,mysql,github",
+        "alter":"JDBC,mysql,Java",
+        "image": "Crime-System",
+        "category": "Backend",
+        "links": {
+            
+            "code": "https://github.com/dajitabh123/Crime_Mangement_System",
+            "view": "https://github.com/dajitabh123/Crime_Mangement_System"
+        }
+    },
+    {
+        "name": "TATA 1Mg (Frontend)",
+        "desc": "Tata 1mg, previously 1mg, is a healthcare platform based in Gurugram, India. It provides services, including e-pharmacy, diagnostics, e-consultation and health content. It was founded in April 2015 by Prashant Tandon, Gaurav Agarwal and Vikas Chauhan.",
+        "src": "https://skillicons.dev/icons?i=html,css,javascript,github",
+        "alter":"HTML,CSS,JavaScript",
+        "image": "TATA 1MG",
+        "category": "frontend",
+        "links": {
+            "code": "https://github.com/dajitabh123/TATA-1mg-Project",
+            "view": "https://tata1mg-clone.netlify.app"
+           
+        }
+    },
+    {
+        "name": "Pluralsight(Frontend)",
+        "desc": "Expert-led online learning for developers & IT professionals. Start learning today! On-demand training made simple. #1 training for individuals and businesses! Expert-Led Courses. Role IQ. Mobile Apps. Hands-on Learning. Cloud Labs. Offline Access.",
+        "src": "https://skillicons.dev/icons?i=html,css,javascript,github",
+        "alter":"HTML,CSS,JavaScript",
+        "image": "PluralSight4",
+        "category": "frontend",
+        "links": {
+            "view": "https://chic-marzipan-a07e91.netlify.app/pages/index.html",
+            "code": "https://github.com/dajitabh123/Pluralsight"
+        }
+    }
+    
+]
